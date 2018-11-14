@@ -1,41 +1,11 @@
-## Welcome to GitHub Pages
+In order to properly manage a booking flows and because many people book online, a Web service is essential for any restaurant owner who wants to save time and efficiency and also for the costumer who will be at time at the restaurant and save time too.
+Actors and goals:
+The goal of the consumer is to get the service suiting his/her needs.
+The RRS (Restaurant Reservation Service) tries to provide customer satisfaction and sell packages.
+The service providers are aiming at selling as many answers of restaurant that have free tables as possible
+Restaurant reservation requests made via the form.
+An automatically populated customer file
+The contact details transmitted in each reservation request made via the form: automatically feed a customer file that can be supplemented by adding preferences or notes following the customers' visit to the restaurant. This allows you to personalize the reception at the restaurant in the future.
 
-You can use the [editor on GitHub](https://github.com/elambri/proyectoCC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project is built using the Flask web framework. It runs on Python 3.7.
 
-
-1
-
-## Welcome to GitHub Pages
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elambri/proyectoCC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
