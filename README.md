@@ -2,7 +2,7 @@
 # project: Restaurant reservation Service
  In order to properly manage a booking flows and because many people book online, a Web service is essential for any restaurant owner who wants to save time and efficiency and also for the costumer who will be at time at the restaurant and save time too.
 Actors and goals:
-The goal of the consumer is to get the service suiting his/her needs.
+-The goal of the consumer is to get the service suiting his/her needs.
 The RRS (Restaurant Reservation Service) tries to provide customer satisfaction and sell packages.
 The service providers are aiming at selling as many answers of restaurant that have free tables as possible
 Restaurant reservation requests made via the form.
